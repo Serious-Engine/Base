@@ -1,0 +1,3 @@
+[submodule "3rd_party/amp11lib"]
+	path = 3rd_party/amp11lib
+	url = https://github.com/Serious-Engine/amp11lib.git
